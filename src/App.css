@@ -1,0 +1,22 @@
+main {
+  text-align: center;
+}
+
+.components {
+  display: flex;
+  justify-content: center;
+}
+
+.component {
+  padding: 50px; 
+  margin: 10px; 
+  border: solid black;
+}
+
+.a, .b, .c, .d, .e, .f, .g {
+  font-size: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
